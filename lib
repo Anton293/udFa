@@ -1,0 +1,4 @@
+let $udFa = (doc) => {
+  this.document.querySelector(doc);
+  return this;
+}
